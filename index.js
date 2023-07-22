@@ -7,7 +7,7 @@ function hScore1() {
     console.log("Home score 1 ")
     let result = homeScore += 1
     document.getElementById("home-score").textContent = result
-}
+} 
 
 function hScore2() {
     console.log("Home score 2")
